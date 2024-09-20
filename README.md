@@ -1,1 +1,1 @@
-# learning-tkinter
+# learning-python
